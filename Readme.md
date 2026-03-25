@@ -52,6 +52,9 @@ Power meters are placed:
 - After the attenuator (input to receiver)  
 
 ---
+## Block Diagram 
+
+<img width="769" height="395" alt="image" src="https://github.com/user-attachments/assets/e70e4fa4-e911-41b8-b72e-6e361ccd1a75" />
 
 ## Simulation
 Steps:
